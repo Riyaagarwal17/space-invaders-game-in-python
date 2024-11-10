@@ -1,5 +1,5 @@
 
-
+theme: jekyll-theme-minimal,
 from __future__ import division
 import pygame
 import random
