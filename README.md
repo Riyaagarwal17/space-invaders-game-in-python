@@ -1,7 +1,5 @@
 
 # 🛸 Space Invaders Game 🎮  
-
-![Gameplay Screenshot](assets/screenshot.png)  
 _A retro-style arcade game built using Python and Pygame._
 
 ## 📖 Overview
@@ -33,7 +31,7 @@ Space Invaders is a classic arcade-style game where you control a spaceship to s
 
 ## 📷 Screenshots  
 ### Main Menu  
-![Main Menu Screenshot](assets/main_menu.png)  
+![Main Menu Screenshot](Screenshots/Screenshot(27).png)  
 
 ### Gameplay  
 ![Gameplay Screenshot](assets/gameplay.png)  
