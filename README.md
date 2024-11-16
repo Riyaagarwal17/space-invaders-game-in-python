@@ -26,7 +26,8 @@ Space Invaders is a classic arcade-style game where you control a spaceship to s
 ## 🎮 Game Controls
 - **Arrow Keys**: Move the spaceship left and right.
 - **Spacebar**: Shoot bullets to destroy enemies.
-- **Escape**: Pause or exit the game.
+- **Q**: Pause or exit the game.
+- **Enter**: To start the game.
 
 ---
 
@@ -83,11 +84,6 @@ Space-Invaders/
 
 ---
 
-## 🛡️ License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
 ## ✨ Contributing
 Contributions are welcome! If you have ideas or improvements, feel free to fork the repository, create a new branch, and submit a pull request.
 
@@ -96,7 +92,7 @@ Contributions are welcome! If you have ideas or improvements, feel free to fork 
 ## 📬 Contact
 - **Author**: Riya Agarwal  
 - **Email**:  riyaagarwal1710@gmail.com  
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **LinkedIn**:(https://www.linkedin.com/in/riyaagarwal21)
 
 ---
 
