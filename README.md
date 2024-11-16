@@ -31,7 +31,7 @@ Space Invaders is a classic arcade-style game where you control a spaceship to s
 
 ## 📷 Screenshots  
 ### Main Menu  
-![Main Menu Screenshot](Screenshots/Screenshot (29).png)  
+![Main Menu Screenshot](Screenshots/Screenshot%20(29).png)  
 
 ### Gameplay  
 ![Gameplay Screenshot](assets/gameplay.png)  
