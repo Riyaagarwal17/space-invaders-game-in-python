@@ -9,7 +9,7 @@ Space Invaders is a classic arcade-style game where you control a spaceship to s
 - Smooth and responsive gameplay with real-time collision detection.
 - Modular code with 95% OOP principles.
 - Optimized event handling for better frame rates.
-- Increasing difficulty with progressive levels.
+- Integrated background music and sound effects.
 - Real-time score tracking.
 
 ---
@@ -38,6 +38,10 @@ Space Invaders is a classic arcade-style game where you control a spaceship to s
 ![Gameplay Screenshot](Screenshots/Screenshot%20(29).png) 
 ![Gameplay Screenshot](Screenshots/Screenshot%20(30).png) 
 ![Gameplay Screenshot](Screenshots/Screenshot%20(31).png) 
+![Gameplay Screenshot](Screenshots/Screenshot%20(33).png) 
+![Gameplay Screenshot](Screenshots/Screenshot%20(37).png) 
+![Gameplay Screenshot](Screenshots/Screenshot%20(38).png) 
+![Gameplay Screenshot](Screenshots/Screenshot%20(41).png) 
 
 ---
 
