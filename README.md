@@ -44,23 +44,49 @@ Space Invaders is a classic arcade-style game where you control a spaceship to s
 ## 🏗️ Project Structure
 ```
 Space-Invaders/
-│├── Screenshots/         # Screenshots of the game
+├──Screenshots/         # Screenshots of the game
 │   ├── menu.png
 │   ├── gameplay.png
 |
-├── assets/              # Game assets
-│   ├── images/          # Visual assets
+├──assets/
+│   ├── images/              # Store all image files
 │   │   ├── bg.jpg
 │   │   ├── bolt_gold.png
+│   │   ├── image.jpg
 │   │   ├── laserRed16.png
 │   │   ├── meteorBrown_big1.png
+│   │   ├── meteorBrown_big2.png
 │   │   ├── meteorBrown_med1.png
+│   │   ├── meteorBrown_med3.png
+│   │   ├── meteorBrown_small1.png
+│   │   ├── meteorBrown_small2.png
+│   │   ├── meteorBrown_tiny1.png
+│   │   ├── missile.png
 │   │   ├── playerShip1_orange.png
-│   │   └── ufo.png
+│   │   ├── ufo.png
 │   │
-│   ├── explosions/      # Explosion animations
-│   │   ├── regularExplosion00.png - regularExplosion08.png
-│   │   └── sonicExplosion00.png - sonicExplosion08.png
+│   ├── explosions/          # Store explosion animation frames
+│   │   ├── regularExplosion00.png
+│   │   ├── regularExplosion01.png
+│   │   ├── regularExplosion02.png
+│   │   ├── regularExplosion03.png
+│   │   ├── regularExplosion04.png
+│   │   ├── regularExplosion05.png
+│   │   ├── regularExplosion06.png
+│   │   ├── regularExplosion07.png
+│   │   ├── regularExplosion08.png
+│   │   ├── sonicExplosion00.png
+│   │   ├── sonicExplosion01.png
+│   │   ├── sonicExplosion02.png
+│   │   ├── sonicExplosion03.png
+│   │   ├── sonicExplosion04.png
+│   │   ├── sonicExplosion05.png
+│   │   ├── sonicExplosion06.png
+│   │   ├── sonicExplosion07.png
+│   │   ├── sonicExplosion08.png
+│   │
+│   ├── shields/             # Store shield-related assets
+│   │   ├── shield_gold.png
 │   │
 │   ├── sounds/          # Sound effects and music
 │   │   ├── expl3.wav
