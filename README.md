@@ -44,23 +44,40 @@ Space Invaders is a classic arcade-style game where you control a spaceship to s
 ## 🏗️ Project Structure
 ```
 Space-Invaders/
-│
+│├── Screenshots/         # Screenshots of the game
+│   ├── menu.png
+│   ├── gameplay.png
+|
 ├── assets/              # Game assets
-│   ├── player.png       # Player spaceship image
-│   ├── enemy.png        # Alien enemy image
-│   ├── bullet.png       # Bullet image
-│   ├── explosion.wav    # Explosion sound effect
-│   └── background.ogg   # Background music
+│   ├── images/          # Visual assets
+│   │   ├── bg.jpg
+│   │   ├── bolt_gold.png
+│   │   ├── laserRed16.png
+│   │   ├── meteorBrown_big1.png
+│   │   ├── meteorBrown_med1.png
+│   │   ├── playerShip1_orange.png
+│   │   └── ufo.png
+│   │
+│   ├── explosions/      # Explosion animations
+│   │   ├── regularExplosion00.png - regularExplosion08.png
+│   │   └── sonicExplosion00.png - sonicExplosion08.png
+│   │
+│   ├── sounds/          # Sound effects and music
+│   │   ├── expl3.wav
+│   │   ├── expl6.wav
+│   │   ├── getready.ogg
+│   │   ├── menu.ogg
+│   │   ├── pew.wav
+│   │   ├── rocket.ogg
+│   │   ├── rumble1.ogg
+│   │   └── tgfcoder-FrozenJam-SeamlessLoop.ogg
 │
 ├── src/                 # Source code
 │   ├── main.py          # Main entry point
-│   ├── game.py          # Game logic and classes
-│   ├── settings.py      # Configuration and constants
-│   └── utils.py         # Helper functions
+│   ├── spaceShooter.py  # Core gameplay logic
 │
+├── .gitattributes       # Git configuration
 ├── README.md            # Project documentation
-├── requirements.txt     # Python dependencies
-└── LICENSE              # Open-source license (optional)
 ```
 
 ---
