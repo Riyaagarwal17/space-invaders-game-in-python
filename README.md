@@ -118,7 +118,10 @@ Space-Invaders/
 2. **Install Dependencies**:
    Ensure you have Python 3.x installed. Then install the required dependencies:
    ```bash
-   pip install -r requirements.txt
+from __future__ import division
+import pygame
+import random
+from os import path
    ```
 
 3. **Run the Game**:
