@@ -115,7 +115,7 @@ Space-Invaders/
 ## 🖥️ Installation and Setup
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/space-invaders.git
+   https://github.com/Riyaagarwal17/space-invaders-game-in-python.git
    cd space-invaders
    ```
 
@@ -139,17 +139,16 @@ from os import path
 Contributions are welcome! If you have ideas or improvements, feel free to fork the repository, create a new branch, and submit a pull request.
 
 ---
+## 🌟 Acknowledgements
+- **Pygame**: For providing the tools to make game development fun and accessible.  
+- **Tutorials & Resources**: Inspiration from various online tutorials and forums.
+
+
+---
 
 ## 📬 Contact
 - **Author**: Riya Agarwal  
 - **Email**:  riyaagarwal1710@gmail.com  
 - **LinkedIn**:(https://www.linkedin.com/in/riyaagarwal21)
-
----
-
-## 🌟 Acknowledgements
-- **Pygame**: For providing the tools to make game development fun and accessible.  
-- **Tutorials & Resources**: Inspiration from various online tutorials and forums.
-
 ---
 
